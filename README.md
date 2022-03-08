@@ -42,8 +42,6 @@ Phase-4(Testing):
 ● Test it on the reviews we get in phase1.
 Other Requirements:
 
-● Operating System
-
 ● Python Platform(Anaconda, Spyder)
 
 ● NLTK package.
